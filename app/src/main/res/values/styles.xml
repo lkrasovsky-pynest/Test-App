@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="HolderTitleStyle">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">?colorOnSecondary</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="HolderUserTagStyle">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">?colorOnSecondary</item>
+    </style>
+
+    <style name="ErrorTitleStyle">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">?colorOnSecondary</item>
+    </style>
+
+    <style name="ErrorSubtitleStyle">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">?colorOnSecondary</item>
+    </style>
+
+    <style name="iv_back_image_corners">
+        <item name="cornerSize">10dp</item>
+    </style>
+
+</resources>

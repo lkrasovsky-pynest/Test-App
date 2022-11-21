@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UsersTestApp</string>
+
+    <string name="back_button">Back button</string>
+    <string name="photo">Photo</string>
+    <string name="posts_count">Posts count: </string>
+    <string name="genericErrorMessage">I can\'t update data. Something went wrong.</string>
+    <string name="connectionErrorMessage">Can\'t update data. Check your Internet connection.</string>
+    <string name="emptyErrorTitle"><b>We didn\'t find anyone.</b></string>
+    <string name="emptyErrorSubtitle">Swipe to refresh</string>
+    <string name="loadingMessage">Just a second, loading…</string>
+
+</resources>
